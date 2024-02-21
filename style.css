@@ -1,0 +1,171 @@
+.icon{
+    position: sticky;
+    top: 0;
+    background:orange;
+    height: 45px;
+    width: 100%;
+    margin-top: 0;
+}
+.icon input
+{
+    margin-left: 10%;
+    margin-top: 8px;
+    height: 25px;
+    width: 40%;
+}
+
+.icon button
+{
+    margin-left: 20px;
+    height: 30px;
+    width: 5%;
+}
+
+.content h1{
+    margin-bottom: 10px;
+    color: black ; 
+    text-align: center;
+}
+
+.hh
+{
+    text-shadow: skyblue;
+}
+.box
+{
+    height: 450px;
+    width: 100%;
+    border: 1px solid red;
+}
+.card img
+{
+    height:250px;
+    width:100%;
+}
+.card
+{
+    height:420px;
+    width:23%;
+    margin-left:20px;
+    margin-top: 20px;
+    float: left;
+    background-color: darkviolet;
+    text-align: center;
+    box-shadow:black;
+}
+.card:hover
+{
+    transform: scale(0.90);
+
+}
+.card button{
+    background-color: blue;
+    color: deeppink;
+}
+.main
+{
+    height: 300px;
+    width: 100%;
+    border: 1px solid red;
+}.cards img
+{
+    width: 100%;
+    border-radius:150px;
+    height: 100px;
+}
+.pragna
+{
+    text-align: center;
+}
+
+
+.cards
+{
+    border: 1px solid;
+    height: 100px;
+    width: 12%;
+    margin-left: 40px;
+    margin-top: 30px;
+    float: left;
+    background-color: cornflowerblue;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 150px;
+    text-shadow: 3px 3px 6px orange;
+}
+.cards
+{
+    transform: scale(1.2);
+}
+.flowers
+{
+    height: 500px;
+    width: 100%;
+    border: 1px solid red;
+}
+.flower{
+    height: 420px;
+    width: 23%;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+    background-color: darkgrey;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px darkgrey;
+
+}
+.flower img
+{
+    height:250px;
+    width: 100%;
+}
+.flower button
+{
+    background-color: blue;
+    color:black;
+}
+.last{
+    height: 300px;
+    width: 100%;
+    border: 1px salmon red;
+}
+footer{
+    height: 300px;
+    width: 100%;
+    margin-top: 20px;
+    background-color:palevioletred;
+}
+.foot
+{
+    width: 23%;
+    margin-top: 20px;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+}
+
+.foot iframe
+{
+    height: 150px;
+    width: 100%;
+}
+.foot i
+{
+    font-size: 30px;
+
+}
+.foot input{
+    width: 80%;
+    height: 20px;
+}
+.copy
+{
+    
+    margin-top: 1px;
+    font-size: 20px;
+    text-align: center;
+    background-color: skyblue;
+    padding: 20px;
+
+}
